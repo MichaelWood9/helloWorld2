@@ -8,7 +8,7 @@ public class Main {
         mystr = scanner.next();
         System.out.println(mystr);
         if(mystr.equals("hello")){
-            System.out.println("hello stranger");
+            System.out.println("hello stranger");//test
         }
 
 
